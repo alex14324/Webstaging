@@ -1,0 +1,21 @@
+﻿  Staging.c
+C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(31,46): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(31,46): warning C4024: 'InternetOpenW': different types for formal and actual parameter 2
+C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(31,64): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(31,64): warning C4024: 'InternetOpenW': different types for formal and actual parameter 5
+C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(38,59): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(38,59): warning C4024: 'InternetOpenUrlW': different types for formal and actual parameter 4
+C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(38,131): warning C4047: 'function': 'DWORD_PTR' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(38,131): warning C4024: 'InternetOpenUrlW': different types for formal and actual parameter 6
+C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(23,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(25,10): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(121,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'SIZE_T'
+      C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(121,9):
+      consider using '%lld' in the format string
+      C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(121,9):
+      consider using '%Id' in the format string
+      C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(121,9):
+      consider using '%I64d' in the format string
+  
+C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\Staging\Staging.c(110,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  Staging.vcxproj -> C:\Users\Administrator\Desktop\MD\30.WebStaging\Staging\x64\Debug\Staging.exe
